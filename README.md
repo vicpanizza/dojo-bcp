@@ -11,6 +11,8 @@ These instructions will get you a copy of the project up and running on your loc
 Descargar las clases:
 
 ```
+Calculadora.java
+CalculadoraTest.java
 DojoKeyboardService.java
 DojoKeyboardServicePowerMockitoTest.java
 ```
@@ -18,7 +20,13 @@ DojoKeyboardServicePowerMockitoTest.java
 
 ### Installing
 
-Copiar las siguientes clases en el destino definido 
+Copiar las siguientes clases en el destino indicado
+
+```
+/bancamovil-login/src/test/java/com/bcp/bancamovil/demo/CalculadoraTest.java
+/bancamovil-login/src/main/java/com/bcp/bancamovil/demo/Calculadora.java
+```
+
 
 ```
 /bancamovil-login/src/test/java/com/bcp/bancamovil/web/business/services/user/DojoKeyboardServicePowerMockitoTest.java
@@ -27,6 +35,7 @@ Copiar las siguientes clases en el destino definido
 
 Despues de copiadas las clases, corregir cualquier error que se pueda presentar 
 
+Al finalizar el ejercicio, estas clases pueden ser removidas de su proyecto.
 
 ## Authors
 
